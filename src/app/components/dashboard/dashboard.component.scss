@@ -1,0 +1,25 @@
+.contenedor{
+    height: 100%;
+    background-size: cover;
+}
+.bg-barra{
+    background-color: rgb(150, 98, 163);
+    color:red
+}
+.boton{
+  background-color: rgba(226, 81, 23, 0.774);
+}
+.sidenav a {
+  color: #fff;
+}
+.sidenav i {
+  padding-right: 10px;
+}
+
+.side {
+  display: flex;
+  flex-direction: column;
+}
+.altura{
+  height: calc(100% - 130px);
+}

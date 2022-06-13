@@ -1,0 +1,26 @@
+.login{
+    width: 100%;
+    max-width: 350px;
+    text-align: center;
+    padding: 50px;
+    background-color: lightcoral;
+    backdrop-filter: blur(2px);
+    border-radius: 50px;
+    border: 1px solid black;
+    box-shadow: 30px 30px 30px lightblue;
+}
+.body{
+    background-image: url('https://fondosmil.com/fondo/58596.jpg');
+    background-size: cover;
+    background-attachment: fixed; 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;     
+}
+.ancho{
+    width: 80%;
+}
+.spinner{
+    margin: 0 auto;
+}
